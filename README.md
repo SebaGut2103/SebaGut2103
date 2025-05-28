@@ -1,4 +1,8 @@
-<h3 align="left">Hi 👋! My name is Juan Sebastian Gutierrez Fuentes and I'm a FullStack Developer from Colombia</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=800&lines=Hi+%F0%9F%91%8B!+My+name+is+Juan+Sebastian+Gutierrez+Fuentes;FullStack+Developer+from+Colombia" alt="Typing SVG" />
+</p>
+
+
 
 ###
 
